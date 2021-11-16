@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7e99c171-2da4-1fdc-a984-68ab5291d71d",
+      "583cc582-1f48-236c-af5a-b2f4750fef40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Differential Equations",
+  "course_description": "Differential Equations are the language in which the laws of nature are expressed. Understanding properties of solutions of differential equations is fundamental to much of contemporary science and engineering. Ordinary differential equations (ODE's) deal with functions of one variable, which can often be thought of as time.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.03",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Simulations",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
